@@ -1,0 +1,20 @@
+{
+    "name":"ErickaMorenoGallegos_PWA",
+    "short_name":"PWA",
+    "start_url":"./index.html",
+    "display":"standalone",
+    "theme_color":"#EAF2EE",
+    "background_color":"#EAF2EE",
+    "icons":[
+        {
+            "src":"images/imagen1",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"images/homescreen.png",
+            "sizes":"144x144",
+            "type":"image/png"
+        }
+    ]  
+}
